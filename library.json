@@ -1,0 +1,42 @@
+{
+    "books": [
+        {
+            "id": "B_GLP2E",
+            "title": "GOT",
+            "author": "ashu",
+            "total_copies": 25,
+            "available_copies": 24,
+            "added_on": "2026-04-18 23:27:05"
+        },
+        {
+            "id": "B_FVVS5",
+            "title": "dark web",
+            "author": "riyaz",
+            "total_copies": 20,
+            "available_copies": 20,
+            "added_on": "2026-04-18 23:27:36"
+        },
+        {
+            "id": "B_9H86K",
+            "title": "java",
+            "author": "anvesh",
+            "total_copies": 30,
+            "available_copies": 30,
+            "added_on": "2026-04-18 23:27:55"
+        }
+    ],
+    "members": [
+        {
+            "id": "M_N2NEN",
+            "name": "ashutosh",
+            "email": "ashu777sen@gmail.com",
+            "borrowed": [
+                {
+                    "book_id": "B_GLP2E",
+                    "title": "GOT",
+                    "borrow_on": "2026-04-18 23:28:36"
+                }
+            ]
+        }
+    ]
+}
